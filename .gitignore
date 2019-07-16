@@ -1,0 +1,7 @@
+*/__pychache__/
+*/Brief.md
+/Dataset/MNIST/mnist.pkl
+/Dataset/MNIST/t10k-images-idx3-ubyte.gz
+/Dataset/MNIST/t10k-labels-idx1-ubyte.gz
+/Dataset/MNIST/train-images-idx3-ubyte.gz
+/Dataset/MNIST/train-labels-idx1-ubyte.gz
