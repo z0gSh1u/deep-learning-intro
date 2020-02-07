@@ -24,9 +24,5 @@
 |       ...       |         mnist_v2.py         |  MNIST手写数字识别 2   |
 |     Tricks      |          Brief.pdf          |        学习技巧        |
 |       ...       |        Optimizer.py         |         优化器         |
-| CNN **尚未完成* |          Brief.pdf          | 卷积神经网络的基本原理 |
-|       ...       |          im_col.py          |     im2col和col2im     |
-|       ...       |          Layers.py          |      CNN层的实现       |
-|       ...       |         mnist_v3.py         |  MNIST手写数字识别 3   |
 |  DeepLearning   |          Brief.pdf          |   深度学习的基本原理   |
 
